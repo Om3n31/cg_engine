@@ -1,0 +1,12 @@
+README.md
+setup.py
+src/CortexLib.egg-info/PKG-INFO
+src/CortexLib.egg-info/SOURCES.txt
+src/CortexLib.egg-info/dependency_links.txt
+src/CortexLib.egg-info/top_level.txt
+src/main_lib/Engine.py
+src/main_lib/__init__.py
+src/main_lib/iNeuralNetwork.py
+src/main_lib/tools.py
+src/test/__init__.py
+src/test/simpleNN.py
