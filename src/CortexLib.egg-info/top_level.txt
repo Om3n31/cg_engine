@@ -1,2 +1,4 @@
+cg-engine
+cortexlib
 main_lib
 test

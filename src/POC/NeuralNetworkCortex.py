@@ -1,6 +1,5 @@
 from SimpleNeuralNetwork  import SimpleNeuralNetwork
-from backend.CortexBack.src.main_lib.iNeuralNetwork import INeuralNetwork
-# from main_libINeuralNetwork import INeuralNetwork
+from main_lib.iNeuralNetwork import INeuralNetwork
 
 
 class NeuralNetworkCortex(SimpleNeuralNetwork, INeuralNetwork):
